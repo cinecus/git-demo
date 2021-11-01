@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T07:03:44.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.3" etag="yncIY1d4pCNdlRL8B-mY" type="github"><diagram id="XByCu5dOAdCTiaAch1k4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T09:16:07.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="fogEv9VtljRBKxNeuTL1" version="15.6.3" type="github">
+  <diagram id="XByCu5dOAdCTiaAch1k4" name="Page-1">
+    <mxGraphModel dx="3822" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cpjbx3PsEIVi15iTytAP-1" target="Cpjbx3PsEIVi15iTytAP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-1" value="Start&lt;br&gt;API Check dup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cpjbx3PsEIVi15iTytAP-2" target="Cpjbx3PsEIVi15iTytAP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-2" value="input :&lt;br&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; line-height: 18px&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;ibrand4&quot;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;REXPCLG-01&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;item_number&quot;&lt;/span&gt;:&amp;nbsp;[&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;G0DSMRE-PDC01&quot;&lt;/span&gt;],&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;period&quot;&lt;/span&gt;:&amp;nbsp;[{&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;active_date&quot;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;2021-11-21&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;active_period&quot;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;P-03&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;},{&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;active_date&quot;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;2021-11-10&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: #a31515&quot;&gt;&quot;active_period&quot;&lt;/span&gt;:&amp;nbsp;&lt;span style=&quot;color: #0451a5&quot;&gt;&quot;P-02&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;}]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="170" width="480" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-3" value="Check Ibrand4 In Database" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="490" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="257.5" width="55" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cpjbx3PsEIVi15iTytAP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cpjbx3PsEIVi15iTytAP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-16" value="Check Active Period, active date , item_number ว่ามีอยู่แล้วหรือไม่" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-18" value="ปั้น Default ส่งให้&lt;br&gt;is_new : true,&lt;br&gt;duplicate : false" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="655" width="310" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-21" value="ซ้ำ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="770" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-22" value="ไม่ซ้ำ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-25" value="find หา data ตัวนั้นมาส่งข้อมูลให้&lt;br&gt;is_new : true,&lt;br&gt;duplicate : true" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="840" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-26" value="ปั้น Default ส่งให้&lt;br&gt;is_new : true,&lt;br&gt;duplicate : false" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="840" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-28" value="มี ibrand4 นั้นแล้ว" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-29" value="ยังไม่มี ibrand4 นั้น" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-33" value="&lt;h1&gt;จะมีกรณีที่ ส่ง item_number มาแก้ไขทำให้เรียก API นี้แล้วมันขึ้นซ้ำ&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="440" width="440" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-34" value="&lt;h1&gt;solution 1 : ส่ง fields มา check ว่าเป็นการสร้างมาจากหน้าแก้สินค้า หรือ เป็นการสร้างมาจากหน้า edit&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="560" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-36" value="" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#3333FF;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="660" width="530" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpjbx3PsEIVi15iTytAP-35" value="&lt;h1&gt;&lt;font color=&quot;#3333ff&quot;&gt;solution 2 : จังหวะ edit ไม่ต้องยิง api checkdup แต่ไป get data มาจากหน้าก่อนหน้าแทน แล้ว create ใหม่ทับไปได้เลย เพราะมันก็บันทึกข้อมูลทับไปอยู่แล้ว&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="730" width="440" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
